@@ -16,8 +16,8 @@
 // driver de los motores delanteros (U5)
 #define FL_IN1  16   // AIN1
 #define FL_IN2  17   // AIN2
-#define FR_IN1  19   // BIN1
-#define FR_IN2  18   // BIN2
+#define FR_IN1  18   // BIN1
+#define FR_IN2  19   // BIN2
 
 // driver de los motores traseros (U6)
 #define RL_IN1  23   // AIN1
